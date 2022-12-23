@@ -1,0 +1,226 @@
+				/***** Import Fonts *****/
+   /* Agis */
+@font-face {
+    font-family: 'agisbold';
+    src: url('./fonts/agis/agis-bold-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'agisextralight';
+    src: url('./fonts/agis/agis-extralight-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'agislight';
+    src: url('./fonts/agis/agis-light-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'agismedium';
+    src: url('./fonts/agis/agis-medium-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'agisregular';
+    src: url('./fonts/agis/agis-regular-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+    /* End Agis */
+
+
+    /* TTFirsNeue */
+@font-face {
+    font-family: 'tt_firs_neuebold';
+    src: url('./fonts/ttfirsneue/ttfirsneue-bold-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'tt_firs_neuebold_italic';
+    src: url('./fonts/ttfirsneue/ttfirsneue-bolditalic-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'tt_firs_neueitalic';
+    src: url('./fonts/ttfirsneue/ttfirsneue-italic-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'tt_firs_neuelight';
+    src: url('./fonts/ttfirsneue/ttfirsneue-light-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'tt_firs_neuelight_italic';
+    src: url('./fonts/ttfirsneue/ttfirsneue-lightitalic-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'tt_firs_neuemedium';
+    src: url('./fonts/ttfirsneue/ttfirsneue-medium-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'tt_firs_neuemedium_italic';
+    src: url('./fonts/ttfirsneue/ttfirsneue-mediumitalic-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'tt_firs_neueregular';
+    src: url('./fonts/ttfirsneue/ttfirsneue-regular-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+    /* End TTFirsNeue */
+
+
+    /* Sarun Pro */
+@font-face {
+    font-family: 'sarun_pro_boldbold';
+    src: url('./fonts/sarunpro/sarunpro-bold-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'sarun_pro_bold_italicBdIt';
+    src: url('./fonts/sarunpro/sarunpro-bolditalic-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'sarun_pro_regularregular';
+    src: url('./fonts/sarunpro/sarunpro-regular-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'sarun_proregular_italic';
+    src: url('./fonts/sarunpro/sarunpro-regularitalic-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+    /* End Sarun Pro */
+
+    /* Kantumruy */
+@font-face {
+    font-family: 'kantumruybold';
+    src: url('./fonts/kantumruy/kantumruy-bold-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'kantumruylight';
+    src: url('./fonts/kantumruy/kantumruy-light-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'kantumruyregular';
+    src: url('./fonts/kantumruy/kantumruy-regular-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+    /* End Kantumruy */
+
+					/***** End Import Fonts *****/
+
+
+
+    /*  Fonts Apply Classes */
+
+        /* Agis */
+
+.agis-regular {
+        font-family: 'agisregular', Arial, sans-serif !important;
+}
+
+.agis-medium {
+        font-family: 'agismedium', Arial, sans-serif !important;
+}
+
+.agis-bold {
+        font-family: 'agisbold', Arial, sans-serif !important;
+}
+
+.agis-light {
+        font-family: 'agislight', Arial, sans-serif !important;
+}
+
+.agis-extralight {
+        font-family: 'agisextralight', Arial, sans-serif !important;
+}
+
+        /* TT Firs Neue */
+
+.tt-firs-neue-regular {
+        font-family: 'tt_firs_neueregular', Arial, sans-serif !important;
+}
+
+.tt-firs-neue-italic {
+        font-family: 'tt_firs_neueitalic', Arial, sans-serif !important;
+}
+
+.tt-firs-neue-medium {
+        font-family: 'tt_firs_neuemedium', Arial, sans-serif !important;
+}
+
+.tt-firs-neue-medium-italic {
+        font-family: 'tt_firs_neuemedium_italic', Arial, sans-serif !important;
+}
+
+.tt-firs-neue-bold {
+        font-family: 'tt_firs_neuebold', Arial, sans-serif !important;
+}
+
+.tt-firs-neue-bold-italic {
+        font-family: 'tt_firs_neuebold_italic', Arial, sans-serif !important;
+}
+
+.tt-firs-neue-light {
+        font-family: 'tt_firs_neuelight', Arial, sans-serif !important;
+}
+
+.tt-firs-neue-light-italic {
+        font-family: 'tt_firs_neuelight_italic', Arial, sans-serif !important;
+}
+
+    /* Sarun Pro */
+
+.sarun-pro-bold {
+        font-family: 'sarun_pro_boldbold', Arial, sans-serif !important;
+}
+.sarun-pro-bold-italic {
+        font-family: 'sarun_pro_bold_italicBdIt', Arial, sans-serif !important;
+}
+.sarun-pro-regular {
+        font-family: 'sarun_pro_regularregular', Arial, sans-serif !important;
+}
+.sarun-pro-regular-italic {
+        font-family: 'sarun_proregular_italic', Arial, sans-serif !important;
+}
+
+    /* Kantumruy */
+.kantumruy-regular {
+    font-family: 'kantumruyregular', Arial, sans-serif !important;
+}
+.kantumruy-bold {
+    font-family: 'kantumruybold', Arial, sans-serif !important;
+}
+.kantumruy-light {
+    font-family: 'kantumruylight', Arial, sans-serif !important;
+}
+    /* End Kantumruy */
+
+    /* End Fonts Apply Classes */

@@ -1,0 +1,102 @@
+@import "Custom.scss";
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 2.5s linear;
+  }
+}
+
+.App-header {
+  /* background-color: #010203; */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  /* color: white; */
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.link {
+  text-decoration: none;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/*  Mattix Background Color  */
+.mattix-bg-light {
+  background-color: #f8f9fa !important;
+}
+.mattix-bg-gray {
+  background-color: #808080 !important;
+}
+.mattix-bg-darkblue {
+  background-color: #2e3191 !important;
+}
+.mattix-bg-skyblue {
+  background-color: #00aeef !important;
+}
+.mattix-bg-darkgreen {
+  background-color: #006838 !important;
+}
+.mattix-bg-lightgreen {
+  background-color: #8dc63f !important;
+}
+.mattix-bg-red {
+  background-color: #ed1c24 !important;
+}
+.mattix-bg-yellow {
+  background-color: #fff200 !important;
+}
+.mattix-bg-dark {
+  background-color: #212529 !important;
+}
+
+    /*  Mattix Color Apply */
+.mattix-light {
+  color: #f8f9fa !important;
+}
+.mattix-gray {
+  color: #808080 !important;
+}
+.mattix-darkblue {
+  color: #2e3191 !important;
+}
+.mattix-skyblue {
+  color: #00aeef !important;
+}
+.mattix-darkgreen {
+  color: #006838 !important;
+}
+.mattix-lightgreen {
+  color: #8dc63f !important;
+}
+.mattix-red {
+  color: #ed1c24 !important;
+}
+.mattix-yellow {
+  color: #fff200 !important;
+}
+.mattix-dark {
+  color: #212529 !important;
+}
